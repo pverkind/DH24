@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+The Events of the Year 
+25 (OCTOBER 28, 645- October 16, 646) 
+
+According to the account related to me by Abmad b. Thabit al-Razi—a traditionist (mulyiddith)—IshLaq b. 'Isa—Abil Ma'shar: The conquest of Alexandria took place in the year 25. According to al-Waqidi: In this year, Alexandria repudiated its pact, and 'Amr b. al-`As launched a bloody attack on them.2° We [that is, al-Tabari) have previously cited the report (of this event), mentioning also those who disagree with Abu. Ma'shar and al-Waqidi concerning the date. 1281o1 Also according to al-Waqidi: In this year, 'Abdallah b. Sa'd b. Abi Sarh sent cavalry forces against the Maghrib. (Al-Waqidi) says: 'Amr b. al-'As had previously sent an expedition to the Maghrib. They seized booty, and 'Abdallah sought and received permission from ('Amr) to raid Ifriqiyah.21 
+ja-ghazahum 'Amu b. wa-qatalahum. Literally, "'Amr attacked and killed them." 21. Ifriqiyah: the Roman-Byzantine province of Africa Proconsularis, essen-tially the northern half of modern Tunisia. 
+      </div>
+    </body>
+  </text>
+</TEI>
